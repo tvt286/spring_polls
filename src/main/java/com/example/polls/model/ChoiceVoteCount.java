@@ -8,6 +8,7 @@ public class ChoiceVoteCount {
     public ChoiceVoteCount(Long choiceId, Long voteCount) {
         this.choiceId = choiceId;
         this.voteCount = voteCount;
+        //aa
     }
 
     public Long getChoiceId() {
