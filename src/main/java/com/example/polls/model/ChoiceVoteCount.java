@@ -10,6 +10,7 @@ public class ChoiceVoteCount {
         this.voteCount = voteCount;
         //aa
         //b
+        //dsadsad
     }
 
     public Long getChoiceId() {
